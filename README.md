@@ -1,4 +1,4 @@
-# nqueens
+# NQueens Python Implementation
 Algorithm to solve nqueens min-conflict problem for values of n up to 1 million
 
 Implemented based on NASA paper linked below:
